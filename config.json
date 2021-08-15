@@ -2,17 +2,7 @@
   "base_url": "https://www.thisisbidencountry.com/",
   "site_title": "This is biden country",
   "site_description": "The fist woke blog",
-  "site_keywords": [
-    {
-      "keyword": "Next.js"
-    },
-    {
-      "keyword": "Netlify"
-    },
-    {
-      "keyword": "React"
-    }
-  ],
+  "site_keywords": [],
   "posts_per_page": 5,
   "twitter_account": "none",
   "github_account": "none"
